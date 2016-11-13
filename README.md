@@ -1,24 +1,10 @@
-# README
+# Ruby on Rails Instagramm
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This was code I wrote as part of the learning process for ruby on rails.
 
-Things you may want to cover:
+Key features:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Image uploading with Paperclip and Imagemagick
+* User authentication module known as "devise"
+* Haml templating
+* Bootstrap SASS design framework
